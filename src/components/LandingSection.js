@@ -5,7 +5,7 @@ import FullScreenSection from "./FullScreenSection";
 const greeting = "Hi, I'm Don!";
 const bio1 = "Thank you for visiting my website.";
 const bio2 =
-  "A little bit about me. I am a frontend developer skilled in HTML, CSS, and React with 20+ years experience across all aspects of informaton technology from software development to system architecture, security, and site reliability.";
+  "A little bit about me. I am a frontend developer skilled in HTML, CSS, and React with 20+ years experience across many aspects of informaton technology from software development to system architecture, security, and site reliability.";
 
 // Implement the UI for the LandingSection component according to the instructions.
 // Use a combination of Avatar, Heading and VStack components.
